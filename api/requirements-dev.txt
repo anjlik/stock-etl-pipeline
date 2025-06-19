@@ -3,4 +3,3 @@ pytest
 requests
 dotenv
 python-dotenv
-pip-review
